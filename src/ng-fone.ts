@@ -32,7 +32,8 @@ export class NgFone{
     }
     showToast(){
         let toast = this.toast.create({
-            message:"tttt"
+            message:"tttt",
+            duration:500
         })
         toast.present();
     }

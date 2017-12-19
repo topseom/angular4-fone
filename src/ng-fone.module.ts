@@ -21,4 +21,4 @@ import { ToastController } from 'ionic-angular';
     providers:[NgFone]
 })
 
-export class NgFoneModule {}
+export class NgFoneModule{}
